@@ -1,0 +1,4 @@
+choses à faire : 
+
+quand les cases apparaissent après avoir cliqué sur un 0, elles rempacent les flags
+couleur vert pas très joli
