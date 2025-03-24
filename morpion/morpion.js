@@ -65,7 +65,7 @@ document.addEventListener("DOMContentLoaded", () => {
         let y = Math.floor((event.clientY - rect.top)/140)
         if (grille[x][y]!=0){
             console.log("aaa")
-            let message =document.getElementById("message")
+            let message = document.getElementById("message")
             message.textContent = "Case Non Valide !"
             message.style.marginTop ="0px"
             message.style.fontSize = "60px"

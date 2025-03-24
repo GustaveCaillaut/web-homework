@@ -1,0 +1,13 @@
+body {
+    text-align:center;
+}
+
+#photo {
+    height:90vh;
+    margin-top: -5vh;
+}
+
+#titrephoto {
+    font-size: 9vh;
+    font-family: "Comic Sans MS";
+}
